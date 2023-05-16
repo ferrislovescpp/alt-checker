@@ -9,7 +9,7 @@
 
 ## requirements:
 
-  * ***CURL***: a library for making http requests, i use it to interact with the mojang api to retrieve account information.
+  * ***curl***: a library for making http requests, i use it to interact with the mojang api to retrieve account information.
 
   * ***nlohmann/json***: a json library for C++, it provides convenient methods for parsing and manipulating json data.
 
