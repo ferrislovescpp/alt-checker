@@ -29,4 +29,4 @@ you can either just install the alt-checker.zip file and run the .exe, or you ca
 
 ## credits
 
-[irxh](https://e-z.bio/school?__cf_chl_tk=DzZCuO1LxGdIGvqJUIaiVFLnTFdIlSVC3CHEN4APU.E-1684213956-0-gaNycGzNCfs) - created the inspiration and "base" for this program in python
+[lrxh](https://e-z.bio/school?__cf_chl_tk=DzZCuO1LxGdIGvqJUIaiVFLnTFdIlSVC3CHEN4APU.E-1684213956-0-gaNycGzNCfs) - created the inspiration and "base" for this program in python
