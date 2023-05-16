@@ -17,7 +17,7 @@
 
 you can either just install the alt-checker.zip file and run the .exe, or you can compile it yourself. 
 
-1. compile the program using a C++ compiler, ensuring that the necessary dependencies are properly linked and included in the project settings.
+  * all you need to do is just compile the program ensuring that the necessary dependencies are properly linked and included in the project settings.
 
 ## limitations:
 
