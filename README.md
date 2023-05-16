@@ -26,3 +26,7 @@ you can either just install the alt-checker.zip file and run the .exe, or you ca
   * this program relies on the availability and response of the mojang api to determine the premium status of the usernames. if the api is down or inaccessible, this program will sadly not work.
 
   * this program does not modify the json files, its primary purpose is to retrieve and display account information.
+
+## credits
+
+[irxh](https://e-z.bio/school?__cf_chl_tk=DzZCuO1LxGdIGvqJUIaiVFLnTFdIlSVC3CHEN4APU.E-1684213956-0-gaNycGzNCfs) - created the inspiration and "base" for this program in python
